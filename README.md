@@ -10,3 +10,6 @@ For better accuracy each sector is divided into 9 blocks each with a numerical r
 
 ![ScreenShot](https://github.com/Strmiska/mortar-calculator/blob/master/Squad%20Map.jpg?raw=true)
 
+Here is a visual example of what I am trying to accomplish:
+
+![ScreenShot](https://github.com/Strmiska/mortar-calculator/blob/master/Map%20Reference.png?raw=true)
